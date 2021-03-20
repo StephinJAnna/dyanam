@@ -1,0 +1,39 @@
+body{
+text-align:center;
+background:linear-gradient(#F8BBD0 0%, #FFCCBC 100%);
+color:blue;
+}
+#hobbyimage{
+border-radius:50%;
+width:100px;
+}
+.names{
+background:linear-gradient(#F8BBD0 0%, #FFCCBC 100%);
+height: 200px;
+}
+#name{
+font-family: 'Cedarville Cursive', cursive;
+}
+.b{
+background:linear-gradient(yellow 0%, orange 50%, pink 75%, red 100%);
+width:1910px;
+height: 700px;
+}
+.menu{
+list-style: none;
+font-family: cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+}
+.link:hover{
+background-color:aqua;
+}
+.line{
+width: 100px;
+height: 6px;
+background-color: blue;
+margin: 8px auto;
+}
